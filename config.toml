@@ -22,6 +22,8 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
         [markup.goldmark.parser.attribute]
             block = true
 
+[permalinks]
+    products = "donate/:filename"
 
 [[menu.main]]
   name = "Downloads"
@@ -37,3 +39,4 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
   name = "AGB"
   pageRef = "/agb"
   weight = 40
+
