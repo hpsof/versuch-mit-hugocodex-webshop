@@ -1,0 +1,38 @@
+
+{{ $logosrc := .logosrc }}
+
+<nav class="navbar fixed-top navbar-expand-lg p-2 " 
+  style="background-color: AliceBlue;margin-left: 1em;margin-right: 1em; ">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">
+      <img src="{{ $logosrc.RelPermalink }}" 
+           height="42" 
+           class="d-inline-block align-text-top" 
+           alt="logo"><b>SHOP</b>
+    </a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav"  style="background-color: AliceBlue">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0 ">
+
+      {{ $currentpage := .context }}
+      {{ range site.Menus.main }}
+        <li class="nav-item">
+          {{ $aktiv := "" }}
+          {{ if $currentpage.IsMenuCurrent "main" . }}
+            {{ $aktiv = "active" }}
+          {{ end }} 
+          <a class="nav-link  ps-2 {{ $aktiv }}"
+             href="{{ .URL }}">{{ .Name }}
+          </a>
+        </li>
+      {{end}}
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+

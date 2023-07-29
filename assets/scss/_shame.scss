@@ -1,0 +1,68 @@
+// Shame (https://sass-guidelin.es/#shame-file)
+// ----------------------------------------------------------------------------
+
+body {
+  margin: 1em;
+  padding-top: 4em;
+
+}
+
+
+//  ...damit wird horiz. scrollen verhindert auf gewissen mob. devices = bilder nicht "übergross"
+img {
+  max-width: 100%;
+}
+
+
+/*
+.nav-link:hover {
+  text-decoration: underline ;
+}
+
+.nav-item:hover {
+    background-color: mintcream;
+}
+*/
+
+// fuer besuchte menü-einträge
+.active {
+      background-color: PowderBlue ;
+    }
+
+
+.shoplinkcolor {
+  color: dodgerblue ;
+}
+
+//...fuer link-headings : # test {bg-link-col}
+#bg-link-col {
+  margin-top: 1em;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  background-color: PowderBlue;  
+}
+
+
+.bg-link-col {
+  margin-top: 1em;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  background-color: PowderBlue;  
+}
+
+
+mark {
+  background-color: #FFF3CD;
+  color: black;
+}
+
+
+
+
+
+
+

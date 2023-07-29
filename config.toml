@@ -1,0 +1,39 @@
+baseURL = 'https://shop.creathera.ch/'
+defaultContentLanguage = "de-ch"
+timeZone = "Europe/Zurich"
+title = 'Creathera-Shop'
+disableKinds = ['taxonomy', 'term']
+enableEmoji = true
+enableGitInfo = true
+# https://discourse.gohugo.io/t/replace-hugos-inbuilt-google-analytics-template-with-minimal-analytics-ga4/43704
+googleAnalytics = "G-85JTFQBDZL"
+
+
+[module]
+[[module.imports]]
+path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
+            hardWraps = true
+        [markup.goldmark.parser.attribute]
+            block = true
+
+
+[[menu.main]]
+  name = "Downloads"
+  pageRef = "/downloads"
+  weight = 50
+
+[[menu.main]]
+  name = "Donate"
+  url = "donate"
+  weight = 100
+
+  [[menu.main]]
+  name = "AGB"
+  pageRef = "/agb"
+  weight = 40

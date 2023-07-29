@@ -1,0 +1,25 @@
+
+
+<div class="content">
+    <div class="container">
+
+            <article class="post">
+                <header class="post-header">
+                    {{ partial "breadcrumbs.html" . }}
+                    <h1>{{ .Title }}</h1>
+                </header>
+                
+                {{ .Content }}
+
+                <br>
+                <ul class="columns">
+                {{ range (where .Site.RegularPages "Section" .Section ).ByTitle }}
+                    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                {{ end }}
+                </ul>
+
+            </article>
+
+    </div>
+</div>
+

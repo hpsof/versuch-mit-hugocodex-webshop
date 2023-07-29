@@ -1,0 +1,30 @@
+
+{{ define "main" }}
+  {{ with .Params.details }}
+    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+  {{ end }}
+  {{ with .Params.description }}
+    <p>Description: {{ . }}</p>
+  {{ end }}
+  {{ with or .Params.url .Params.details }}
+    <hr>
+  {{ end }}
+  {{ markdownify (emojify .Content) }}
+  <div class="container mb-3">
+    <div class="row">
+    {{ range .Pages }}
+      <!--h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2-->
+      <div class="col mb-2">
+        <div class="card text-bg-light" style="max-width: 20rem;">
+          <img src="{{ .Params.image }}" class="img-top" alt="portrait" >
+          <div class="card-body">
+            <h5 class="card-title">{{.Title}}</h5>
+            <p class="card-text">{{markdownify .Params.cardtext}}</p>
+            <a href="{{ .RelPermalink }}" class="btn btn-sm btn-primary">Details...</a>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    </div>
+  </div>
+{{ end }}

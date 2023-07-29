@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}">
+
+<head>
+  {{- partial "meta.html" . -}}
+  <title>{{ site.Title }}</title>
+  {{- partial "favicon.html" . -}}
+  {{- partial "css.html" . -}}
+  {{- partial "js.html" . -}}
+  <link rel="stylesheet" href="/css/webshop.css">
+  <script type="text/javascript" src="/js/webshop.js"></script>
+</head>
+<body>
+  {{ $logosrc := resources.Get "images/creatheraLogo0717.png" }}
+  <nav>
+    {{- partial "nav.html" (dict "context" . "logosrc" $logosrc) -}}
+  </nav>
+  <header>
+    
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{- partial "footer.html" . -}}
+  {{- partial "subfooter.html" . -}}
+  {{- template "_internal/google_analytics.html" . -}}
+</body>
+</html>
