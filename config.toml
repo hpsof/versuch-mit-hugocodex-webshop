@@ -6,7 +6,7 @@ disableKinds = ['taxonomy', 'term']
 enableEmoji = true
 enableGitInfo = true
 # https://discourse.gohugo.io/t/replace-hugos-inbuilt-google-analytics-template-with-minimal-analytics-ga4/43704
-googleAnalytics = "G-85JTFQBDZL"
+# googleAnalytics = "G-85JTFQBDZL"
 
 
 [module]
@@ -31,9 +31,9 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
   weight = 50
 
 [[menu.main]]
-  name = "Donate"
-  url = "donate"
-  weight = 100
+  name = "Produkte"
+  url = "/donate"
+  weight = 10
 
   [[menu.main]]
   name = "AGB"
