@@ -6,7 +6,7 @@
     &nbsp;
   {{ end }}
   </div>
-  {{- if .Site.IsServer -}}
+  {{- if hugo.IsServer -}}
     <div class="d-block" style="color:rgba(20, 0, 0, 0.7); font-size: smaller;">
       Verwendete Hugo Version: {{ hugo.Version -}}
     </div>
