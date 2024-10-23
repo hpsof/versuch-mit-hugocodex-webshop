@@ -1,6 +1,6 @@
 ---
-title: "Donate"
-url: donate
+title: "Produkte"
+url: produkte
 ---
 
 

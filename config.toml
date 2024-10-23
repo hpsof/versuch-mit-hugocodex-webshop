@@ -22,7 +22,7 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
             block = true
 
 [permalinks]
-    products = "donate/:filename"
+    products = "produkte/:filename"
 
 [[menu.main]]
   name = "Downloads"
@@ -31,7 +31,7 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 
 [[menu.main]]
   name = "Produkte"
-  url = "/donate"
+  url = "/produkte"
   weight = 10
 
   [[menu.main]]
