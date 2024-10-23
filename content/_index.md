@@ -1,6 +1,7 @@
 ---
 title: "Startseite"
 showAlertShopBisher: true
+
 ---
 
 ## Willkommen im Creathera-Shop

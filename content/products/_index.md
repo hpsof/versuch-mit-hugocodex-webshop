@@ -1,13 +1,9 @@
 ---
 title: "Produkte"
 url: produkte
+details: Hier erscheinen unsere Produkte
+description: Bitte beachten Sie, ...
+
 ---
 
-
-## Hier erscheinen unsere Produkte
-Bitte beachten Sie, ...
-
- 
-
-----
 

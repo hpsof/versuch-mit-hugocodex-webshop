@@ -1,10 +1,10 @@
 
 {{ define "main" }}
   {{ with .Params.details }}
-    <p>Details: <a href="{{ . }}">{{ . }}</a></p>
+    <h3>{{ . }}</h3>
   {{ end }}
   {{ with .Params.description }}
-    <p>Description: {{ . }}</p>
+    <p>{{ . }}</p>
   {{ end }}
   {{ with or .Params.url .Params.details }}
     <hr>
