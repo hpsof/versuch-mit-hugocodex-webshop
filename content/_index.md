@@ -7,4 +7,4 @@ showAlertShopBisher: true
 
 ##### Was Sie hier erwarten können
 
-momentan noch nix bis gar nichts!
+momentan noch eher wenig...
