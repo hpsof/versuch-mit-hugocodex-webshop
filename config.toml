@@ -5,8 +5,7 @@ title = 'Creathera-Shop'
 disableKinds = ['taxonomy', 'term']
 enableEmoji = true
 enableGitInfo = true
-# https://discourse.gohugo.io/t/replace-hugos-inbuilt-google-analytics-template-with-minimal-analytics-ga4/43704
-# googleAnalytics = "G-85JTFQBDZL"
+
 
 
 [module]
