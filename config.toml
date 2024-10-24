@@ -27,7 +27,7 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 [[menu.main]]
   name = "Downloads"
   pageRef = "/downloads"
-  weight = 50
+  weight = 20
 
 [[menu.main]]
   name = "Produkte"

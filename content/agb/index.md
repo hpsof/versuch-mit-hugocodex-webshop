@@ -4,9 +4,11 @@ title: "AGB"
 ---
 
 
-## AGB und klein-Gedrucktes kommen hier
+## AGB
 
-
-##### wir garantieren für nichts, ob sie das produkt erhalten oder nicht kann reiner zufall sein oder auch nicht...
+- Die Preise verstehen sich inkl. MWSt für die Schweiz.
+- Die Versandkosten sind nur in der Schweiz gültig.
+- Für den Versand in die EU wird um direkte, persönliche Kontaktaufnahme gebeten.
+- Der Versand erfolgt nach Zahlungseingang.
 ----
 
