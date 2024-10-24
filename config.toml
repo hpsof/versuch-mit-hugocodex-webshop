@@ -34,8 +34,9 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
   url = "/produkte"
   weight = 10
 
-  [[menu.main]]
+[[menu.main]]
   name = "AGB"
   pageRef = "/agb"
   weight = 40
+
 
