@@ -17,10 +17,25 @@ Ab 2. Klasse
 
 <hr />
 
-### link-version:
+### link-version (in neuem tab/fenster):
 
 - [Karten kaufen](https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ)
 
+### link als button in markup?
+
+#### in form als submit :
+
+- <form action="https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ" target="_blank">
+    <input type="submit" value="Karten kaufen" />
+</form>
+
+#### input type button (in neuem tab/fenster):
+
+- <input type="button" onclick=" window.open('https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ','_blank' ) " value="Karten kaufen" />
+
+#### mit Bootstrap (in neuem tab/fenster):
+
+- <a class="btn btn-primary" href="https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ" target="_blank">Karten kaufen</a>
 
 ### version mit gestapelten buttons:
 
