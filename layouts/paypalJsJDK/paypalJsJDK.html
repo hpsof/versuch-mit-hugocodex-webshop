@@ -1,0 +1,31 @@
+{{ define "main" }}
+{{ markdownify (emojify .Content) }}
+
+
+<h5>hier folgt inhalt von html-file > > ></h5>
+
+<div id="paypal-button-container">id </div>
+
+<hr />
+
+<style>
+	
+</style>
+
+<!-- client-id von paypal-konto hanspeter.schlapbach@sofim.com | sandbox! -->
+<script src="https://sandbox.paypal.com/sdk/js?client-id=AX7sKWHOk3LVDIau7xpGM_1r9QdJnZhOTHZ36mKH8_YpfJlM_ls1TpZps7am9EXpiB1ydt-thOOX0zlo&components=card-fields"></script>
+
+<script src="https://sandbox.paypal.com/sdk/js?client-id=AX7sKWHOk3LVDIau7xpGM_1r9QdJnZhOTHZ36mKH8_YpfJlM_ls1TpZps7am9EXpiB1ydt-thOOX0zlo&components=buttons"></script>
+
+<script>
+paypal.Buttons({
+  style: {
+    layout: 'vertical',
+    color:  'blue',
+    shape:  'rect',
+    label:  'paypal'
+  }
+}).render('#paypal-button-container');
+</script>
+
+{{ end }}
