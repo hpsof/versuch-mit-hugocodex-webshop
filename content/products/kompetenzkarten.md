@@ -16,10 +16,15 @@ Lernziele
 Ab 2. Klasse
 
 <hr />
-### link-version:
-- https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ
 
-### gestapelte button-version:
+### link-version:
+
+- [Karten kaufen](https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ)
+
+
+### version mit gestapelten buttons:
+
+
 <script src="https://www.paypal.com/sdk/js?client-id=BAAM4ufOR539XXSDLPbD0-sSd8gP20yLP_11yppM8x_IDxVLM2AtO0W0vs5QYvx3UrHw7kzGj5BTzSbouY&components=hosted-buttons&disable-funding=venmo&currency=CHF"></script>
 <div id="paypal-container-QLKQS8THFQQWJ"></div>
 <script>

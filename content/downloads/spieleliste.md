@@ -1,5 +1,5 @@
 ---
-title: "Downloads"
+title: "Spieleliste"
 image: "/uploads/downloads/spieleliste/datei01_spieleliste.png"
 weight: 20
 
