@@ -19,16 +19,7 @@ Das Buch lässt sich von vorne und von hinten lesen. Der eine Buchteil richtet s
 Der andere Teil des Buches wendet sich an die Kinder. Liebevoll mit Plüschaffen nachgestellte Untersuchungssituationen zeigen den Kindern auf spielerische Weise, was sie bei der Kinderärztin erwartet. Darunter finden sich auch Situationen, die die Kinder und Jugendlichen eventuell als Herausforderungen oder gar Stolpersteine wahrnehmen. Dem Kind wird erklärt, was es selbst tun kann, um diese möglichst cool zu meistern. Die Eltern werden beraten, wie sie mithelfen können, diese Steine aus dem Weg zu räumen.
 Eines wird klar: Der Besuch bei der Kinderärztin gehört zum Abenteuer Leben und macht Spass!
 
-<hr />
-
-<script src="https://www.paypal.com/sdk/js?client-id=BAAM4ufOR539XXSDLPbD0-sSd8gP20yLP_11yppM8x_IDxVLM2AtO0W0vs5QYvx3UrHw7kzGj5BTzSbouY&components=hosted-buttons&disable-funding=venmo&currency=CHF"></script>
-<div id="paypal-container-NHEJW77NGURTU"></div>
-<script>
-  paypal.HostedButtons({
-    hostedButtonId: "NHEJW77NGURTU",
-  }).render("#paypal-container-NHEJW77NGURTU")
-</script>
-
+<a class="btn btn-primary" href="https://www.sandbox.paypal.com/ncp/payment/2WD8QZZ2LMDN2" target="_blank">Kaufen</a>
 <hr />
 
 
@@ -45,6 +36,7 @@ La première partie du livre explique aux parents le déroulement et les buts de
 La deuxième partie du livre est destinée aux enfants et elle inverse les rôles : les enfants prennent celui des parents et un singe en peluche celui de l'enfant. On y dévoile ce qu'il y a de passionnant à découvrir au cabinet pédiatrique, ainsi que les éventuels défis à relever. Des illustrations pleines d'humour apprennent à l’enfant de nombreux trucs pour rester zen pendant l'examen et les vaccinations ou prises de sang. En même temps on explique aux parents de manière simple et concrète comment ils peuvent soutenir activement leur enfant grâce à des interventions dites non médicamenteuses : être proche de lui dans des positions dites de confort par exemple ou le distraire par un livre interactif diminue le stress et l'anxiété pour tout le monde.
 De chaque côté du livre on trouve de la place pour noter ses propres expériences vécues au cabinet. Ce guide devient ainsi un accompagnant personnel de chaque famille.
 
+<a class="btn btn-primary" href="https://www.sandbox.paypal.com/ncp/payment/ZF2MZZTHSGQKW" target="_blank">Acheter</a>
 <hr />
 
 ### TUTTO OKAY? [16 CHF]
@@ -59,5 +51,8 @@ Questo libro illustrato – con i suoi due inizi e senza fine - è una guida pra
 La prima parte del libro spiega lo svolgimento e gli obiettivi degli esami preventivi ai genitori, come anche i passi importanti dello sviluppo fisico e cognitivo del loro bambino a secondo dell’età. Inoltre riassume le domande più richieste durante gli esami preventivi.
 La seconda parte del libro è destinata ai bambini, con scambio dei ruoli: i bambini di-ventano genitori e delle scimmie di peluche rappresentano i bambini a diverse età. Sveliamo cosa c’è di appassionante da scoprire nello studio pediatrico, così come le eventuali sfide da superare. Delle immagini piene d’umore sostengono il bambino come restare tranquillo durante la visita medica, le vaccinazioni e i prelievi di sangue. Allo stesso tempo spieghiamo ai genitori, in maniera semplice e concreta, come possono sostenere il bambino con dei supporti detti non medicamentosi. Per esempio mettersi in una posizione comoda e tenere in braccio il bambino, o distrarre il bambino leggendo un libro interattivo. In questo modo diminuisce lo stress e l’ansia di tutti i presenti.
 Nel libro si trovano degli spazi per poter annotare le proprie esperienze fatte nello stu-dio pediatrico, affinché questa guida possa accompagnare personalmente ogni fami-glia.
+
+<a class="btn btn-primary" href="https://www.sandbox.paypal.com/ncp/payment/ZXL5VUG6CH48C" target="_blank">Comprare</a>
+
 
 {{< html_top "&#8613;" >}}
