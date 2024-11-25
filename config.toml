@@ -43,4 +43,4 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
 [[menu.main]]
   name = "Paypal-JS-JDK"
   pageRef = "/paypalJsJDK"
-  weight = 40
+  weight = 50
