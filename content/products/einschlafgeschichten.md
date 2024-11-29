@@ -22,4 +22,6 @@ Autoren
 - www.calmaruma.ch
 
 
- 
+----------
+
+ - <a class="btn btn-primary" href="https://payment-links.mollie.com/payment/RkmshCGMuZXthXXRa5fkZ" target="_blank">Produkt kaufen</a>
