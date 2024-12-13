@@ -24,4 +24,7 @@ Autoren
 
 ----------
 
- - <a class="btn btn-primary" href="https://payment-links.mollie.com/payment/RkmshCGMuZXthXXRa5fkZ" target="_blank">Produkt kaufen</a>
+ - <a class="btn btn-primary" href=https://payment-links.mollie.com/payment/eATaLr3iZEaAcJrQ8SL3G target="_blank">Produkt kaufen (TESTkauf 1chf mollie)</a>
+
+
+
