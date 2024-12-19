@@ -2,6 +2,7 @@
 title: Buch "Einschlafgeschichten für Kinder"
 image: /uploads/products/einschlafgeschichten/bild01_einschlafgeschichten.png
 weight: 30
+isActive: false
 
 ---
 ###### {{< html-link-span "/produkte" "Zurück">}}
@@ -22,4 +23,3 @@ Autoren
 - www.calmaruma.ch
 
 
- 

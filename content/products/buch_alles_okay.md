@@ -2,9 +2,13 @@
 title: Buch "Alles okay?" (DE/FR/IT)
 image: /uploads/products/buch_alles_okay/bild01_buch_alles_okay.png
 weight: 10
+isActive: true
 
 ---
 ###### {{< html-link-span "/produkte" "Zurück">}}
+
+### achtung: alle links/buttons in sandbox verkäufer hpsof
+
 ### ALLES OKAY?! [22 CHF]
 - Autorinnen: Dr. med. Lea Abenhaim und Dr. med. Sabine Zehnder
 - Fotografie: Thilo Larsson
