@@ -2,7 +2,7 @@
 title: "SANDBOX (DEV)"
 image: "/uploads/products/sand_box/bild01_paypal.png"
 weight: 100
-isActive: true
+isActive: false
 
 ---
 ###### {{< html-link-span "/produkte" "Zurück">}}
