@@ -28,7 +28,7 @@ Autoren
 
 
 ----------
-
+- ### paypal form sabine konto "heiss"
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick" />
   <input type="hidden" name="hosted_button_id" value="FBKLG5QSJGEVG" />
@@ -57,7 +57,7 @@ Autoren
     <tr>
       <td>
         <input type="hidden" name="on1" value="Versand für EU : Bitte für [Land] anfragen"/>
-        Versand für EU : Bitte für [Land] anfragen
+        Versand für EU : Bitte f&uuml;r [Land] anfragen
       </td>
     </tr>
     <tr>

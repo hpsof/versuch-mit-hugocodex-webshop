@@ -47,3 +47,7 @@ Ab 2. Klasse
     hostedButtonId: "QLKQS8THFQQWJ",
   }).render("#paypal-container-QLKQS8THFQQWJ")
 </script>
+
+### neue version sandbox verkäufer hp (2024-12-19) als link in neuem tab:
+
+- [Buch Sabine kaufen](https://www.sandbox.paypal.com/ncp/payment/TVFQZ5MD2Y3QL)
