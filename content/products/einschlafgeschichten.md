@@ -2,6 +2,7 @@
 title: Buch "Einschlafgeschichten für Kinder"
 image: /uploads/products/einschlafgeschichten/bild01_einschlafgeschichten.png
 weight: 30
+isActive: false
 
 ---
 ###### {{< html-link-span "/produkte" "Zurück">}}
@@ -22,50 +23,3 @@ Autoren
 - www.calmaruma.ch
 
 
-----------
-
- - <a class="btn btn-primary" href=https://payment-links.mollie.com/payment/eATaLr3iZEaAcJrQ8SL3G target="_blank">Produkt kaufen (TESTkauf 1chf mollie)</a>
-
-
-----------
-- ### paypal form sabine konto "heiss"
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="FBKLG5QSJGEVG" />
-  <table>
-    <tr>
-      <td>
-        <input type="hidden" name="on0" value="Buch in folgender Sprachversion:"/>
-        Buch in folgender Sprachversion:
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <select name="os0">
-          <option value="Deutsch">
-            Deutsch CHF 2.00
-          </option>
-          <option value="Français">
-            Français CHF 1.50
-          </option>
-          <option value="Italiano">
-            Italiano CHF 1.00
-          </option>
-        </select>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <input type="hidden" name="on1" value="Versand für EU : Bitte für [Land] anfragen"/>
-        Versand für EU : Bitte f&uuml;r [Land] anfragen
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <input type="text" name="os1" maxLength="200" />
-      </td>
-    </tr>
-  </table>
-  <input type="hidden" name="currency_code" value="CHF" />
-  <input type="image" src="https://www.paypalobjects.com/de_DE/CH/i/btn/btn_buynow_SM.gif" border="0" name="submit" title="PayPal – Einfacher und sicherer online bezahlen." alt="Jetzt kaufen" />
-</form>
