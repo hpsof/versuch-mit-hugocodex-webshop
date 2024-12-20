@@ -18,9 +18,10 @@ Ab 2. Klasse
 
 <hr />
 
-##  achtung: folgende links/buttons sandbox (verkäufer konto hpsof)
 
-### link-version(in neuem tab/fenster):
+
+#### link-version(in neuem tab/fenster):
 
 - [Karten kaufen](https://www.sandbox.paypal.com/ncp/payment/QLKQS8THFQQWJ)
 
+<hr />

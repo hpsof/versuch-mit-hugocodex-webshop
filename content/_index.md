@@ -4,8 +4,8 @@ showAlertMsg: true
 
 ---
 
-## Willkommen im Creathera-Shop
+## Willkommen im Creathera-TEST-Shop
 
-##### Was Sie hier erwarten können
+##### Zahlungslinks von Sandbox Paypal hpsof
 
-momentan noch eher wenig...
+falls nix anderes angegeben ist...
