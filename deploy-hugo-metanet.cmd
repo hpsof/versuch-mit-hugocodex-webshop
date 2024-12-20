@@ -23,7 +23,7 @@ echo.  set commit-info git...
 call set_git_commit_info.cmd
 echo.  mit hugo version in local public erstellen :
 if exist %localdeployfolder% rmdir /q /s %localdeployfolder%
-call hugo.cmd --baseURL=https://shop.creathera.ch/ --environment=production
+call hugo.cmd --baseURL=https://shoptest.creathera.ch/ --environment=production
 
 echo.  inhalt deploy-verz. loeschen auf remote host :
 plink.exe -l %user% -i %ppfad%/%pubkeyfile%  -ssh %host%   -P %port%  rm -rf %rpfad%/*.*
