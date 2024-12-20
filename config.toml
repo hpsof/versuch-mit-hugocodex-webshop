@@ -1,7 +1,7 @@
-baseURL = 'https://shop.creathera.ch/'
+baseURL = 'https://shoptest.creathera.ch/'
 defaultContentLanguage = "de-ch"
 timeZone = "Europe/Zurich"
-title = 'Creathera-Shop'
+title = 'Creathera-TEST-Shop'
 disableKinds = ['taxonomy', 'term']
 enableEmoji = true
 enableGitInfo = true
@@ -40,7 +40,7 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
   weight = 40
 
 
-# [[menu.main]]
-#   name = "Paypal-JS-JDK"
-#   pageRef = "/paypalJsJDK"
-#   weight = 50
+[[menu.main]]
+  name = "Paypal-JS-JDK"
+  pageRef = "/paypalJsJDK"
+  weight = 50

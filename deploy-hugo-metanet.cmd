@@ -1,15 +1,15 @@
 @echo off
-rem --  03.08.2023 hpsof
+rem --  03.08.2023 | 20.12.2024 hpsof
 rem --  version mit keys
-rem --  idee : hugo-webseite auf metanet deployen fuer shop.creathera.ch
-rem --         vorlauefig shop von hugocodex, d.d. ganzes web von dem...
+rem --  idee : hugo-webseite auf metanet deployen fuer shoptest.creathera.ch
+
 
 rem if ""%1"" == """" goto needParam
 setlocal
 set user=sofimchsch
 set host=80.74.150.2
 set port=2121
-set rpfad=/creathera.ch/shop
+set rpfad=/creathera.ch/shoptest
 set localdeployfolder=public
 set ppfad=g:/tools/putty
 PATH=%ppfad%;%PATH%

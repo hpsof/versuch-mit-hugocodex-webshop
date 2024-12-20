@@ -1,6 +1,6 @@
 ---
 title: "Startseite"
-showAlertShopBisher: true
+showAlertMsg: true
 
 ---
 
